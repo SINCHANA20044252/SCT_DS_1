@@ -1,38 +1,41 @@
-SkillCraft Technology - Data Visualization Task
-##Task 01: Population Distribution Visualization
-Overview
-This project creates interactive bar charts and histograms to visualize the distribution of categorical and continuous variables in population datasets.
-##Objective
-Create visualizations to analyze and display:
+<div align="center">
 
-Age distribution in populations
-Gender distribution demographics
-Other categorical and continuous variable distributions
+# 📊 SkillCraft Technology - Data Visualization Suite
 
-##Example Dataset
-The project includes a sample dataset featuring India's Population Distribution by Age (2022):
+### Interactive Population Distribution Analysis Tool
 
-Total Population: 1.42 Billion
-Median Age: 28 years
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/SINCHANA20044252)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Canva](https://img.shields.io/badge/Designed%20with-Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com)
 
-Age Groups:
+[🚀 Live Demo](https://skillcraft-technology-tasks.my.canva.site) • [📖 Documentation](#) • [🐛 Report Bug](#) • [✨ Request Feature](#)
 
-0 to 20 Years: 512 Million (36.1%)
-21 to 64 Years: 807 Million (57.0%)
-65+ Years: 98 Million (6.9%)
+</div>
 
- ##Technologies Used
+---
 
-Data Visualization Libraries (Chart.js/D3.js/Plotly)
-HTML5/CSS3
-JavaScript
-Responsive Design
+## 🎯 Project Overview
 
-## Features
+**Task 01** focuses on creating stunning, interactive visualizations for analyzing demographic data. Transform complex population statistics into intuitive, engaging visual stories using modern web technologies.
 
-Interactive bar charts
-Histogram representations
-Categorical variable visualization
-Continuous variable distribution
-Responsive and mobile-friendly design
-Real-time data rendering
+<div align="center">
+
+### 🌟 Key Highlights
+
+| Feature | Description |
+|---------|-------------|
+| 📈 **Interactive Charts** | Dynamic bar charts with hover effects and animations |
+| 🎨 **Modern Design** | Sleek, responsive UI built with latest web standards |
+| ⚡ **Real-time Rendering** | Instant data visualization updates |
+| 📱 **Mobile First** | Fully responsive across all devices |
+| 🔄 **Live Data** | Support for real-time data streaming |
+
+</div>
+
+---
+
+## 🎨 Featured Visualization
+
+### India's Population Distribution (2022)
